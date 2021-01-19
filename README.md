@@ -1,2 +1,2 @@
-# lthwyara
-Yara
+# Learn Yara
+
